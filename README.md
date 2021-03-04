@@ -1,6 +1,6 @@
 ## Hey there! <img src="https://media.tenor.com/images/17a04f152e6be03486439b85e3bb045b/tenor.gif" width="30px">
 
-I am Moses Odhiambo, currently majoring in Telecommunication Engineering at [Kenyatta University](https://ku.ac.ke/). I am a software developer, innovator, and startup founder. I specialize in Machine Learning but I'm proficient in many other things. 
+I am Moses Odhiambo, currently majoring in Telecommunication Engineering at [Kenyatta University](https://ku.ac.ke/). I am a self-taught software developer, innovator, and startup founder. I specialize in Machine Learning but I'm proficient in many other things. 
 
 ### Projects
 
