@@ -1,6 +1,6 @@
 ## Hey there! <img src="https://media.tenor.com/images/17a04f152e6be03486439b85e3bb045b/tenor.gif" width="30px">
 
-I am an self-taught software developer, engineering student, innovator, and startup founder. I specialize in Machine Learning but I'm proficient in many other things. I major in Telecommunication Engineering at [Kenyatta University](https://ku.ac.ke/). 
+I am an self-taught software developer, engineering student, innovator, and startup founder. I specialize in Machine Learning and Game Development but I'm proficient in many other things. I major in Telecommunication Engineering at [Kenyatta University](https://ku.ac.ke/). 
 
 ### Projects
 
