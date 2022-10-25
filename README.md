@@ -1,25 +1,16 @@
 ## Hey there! <img src="https://media.tenor.com/images/17a04f152e6be03486439b85e3bb045b/tenor.gif" width="30px">
 
-I am an avid Machine Learning Engineer and Game Developer. I generalize in other things such as Blockchain, Android, and Web. I run a Developer account on the Google Play Store, where I have tons of interesting projects. [Here is the link](https://play.google.com/store/apps/dev?id=6067079243941005070).
-
-### Projects
-
-- [Image Captioning with Machine Learning](https://github.com/badass-techie/Image-Captioning)
-- [Real-time Object Detection with TinyML on Mobile](https://play.google.com/store/apps/details?id=com.apptasticmobile.objectdetector)
-- [Audio and Music Synthesis with NLP](https://github.com/badass-techie/Music-Generation)
-- [Deepfake generation with AI](https://github.com/badass-techie/These-People-Do-Not-Exist)
-- [Open world adventure mobile game](https://github.com/badass-techie/Crystal-Rush)
+I am an avid Machine Learning Engineer and Game Developer. I generalize in other things such as Blockchain, Android, and Web. 
 
 
 ###  Skills
 
-- Machine/Deep Learning
-- Computer Vision
-- Natural Language Processing
+- Data Science
+- Full Stack Web Development
+- Cloud and DevOps
 - Game Development
-- Computer Graphics
 - Blockchain Development
-- Android Development
+
 
 
 ###  ⚡ Technologies
@@ -38,6 +29,21 @@ I am an avid Machine Learning Engineer and Game Developer. I generalize in other
 ![Javascript](https://img.shields.io/badge/Javascript-white?style=flat-square&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+
+### Projects
+
+- [Image Captioning with Machine Learning](https://github.com/badass-techie/Image-Captioning)
+- [Real-time Object Detection with TinyML on Mobile](https://play.google.com/store/apps/details?id=com.apptasticmobile.objectdetector)
+- [Audio and Music Synthesis with NLP](https://github.com/badass-techie/Music-Generation)
+- [Deepfake generation with AI](https://github.com/badass-techie/These-People-Do-Not-Exist)
+- [Open world adventure mobile game](https://github.com/badass-techie/Crystal-Rush)
+
+
+### More Projects
+
+I run a Google Play Store account. [Download my mobile apps](https://play.google.com/store/apps/dev?id=6067079243941005070).
+
 
 ### Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badass-techie&hide=css)]()
