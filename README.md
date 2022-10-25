@@ -1,6 +1,6 @@
 ## Hey there! <img src="https://media.tenor.com/images/17a04f152e6be03486439b85e3bb045b/tenor.gif" width="30px">
 
-I am a Data Sciencist, Software Engineer, and Cloud Developer. I class myself as an innovator & astute problem solver. Find out more about me and feel free to connect with me here:
+I am a Data Scientist, Software Engineer, and Cloud Developer. I class myself as an innovator & astute problem solver. Find out more about me and feel free to connect with me here:
 
 <p align="left">
   <a href="https://github.com/badass-techie?tab=followers">
@@ -52,11 +52,11 @@ I am a Data Sciencist, Software Engineer, and Cloud Developer. I class myself as
 
 ### Projects
 
-- [Image Captioning with Machine Learning](https://github.com/badass-techie/Image-Captioning)
-- [Real-time Object Detection with TinyML on Mobile](https://play.google.com/store/apps/details?id=com.apptasticmobile.objectdetector)
-- [Audio and Music Synthesis with NLP](https://github.com/badass-techie/Music-Generation)
-- [Deepfake generation with AI](https://github.com/badass-techie/These-People-Do-Not-Exist)
-- [Open world adventure mobile game](https://github.com/badass-techie/Crystal-Rush)
+- [Image Captioner powered by AI](https://github.com/badass-techie/Image-Captioning)
+- [Full Stack Social Media Web App](https://github.com/badass-techie/Sociorama-API)
+- [Mobile App that performs Real-time Object Recognition](https://play.google.com/store/apps/details?id=com.apptasticmobile.objectdetector)
+- [Image Synthesis with Artificial Intelligence](https://github.com/badass-techie/These-People-Do-Not-Exist)
+- [Audio and Music Generation with Machine Learning](https://github.com/badass-techie/Music-Generation)
 
 
 ### More Projects
