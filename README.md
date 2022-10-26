@@ -65,4 +65,4 @@ I run a Google Play Store account. [Download my mobile apps](https://play.google
 
 
 ### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badass-techie&hide=css,Jupyter%20Notebook,HTML&layout=compact)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badass-techie&hide=css,Jupyter%20Notebook,HTML&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
