@@ -54,7 +54,7 @@ I am a Data Scientist, Software Engineer, and Cloud Developer. I pride myself as
 
 - [Image Captioner powered by AI](https://github.com/badass-techie/Image-Captioning)
 - [Full Stack Social Media Web App](https://github.com/badass-techie/Sociorama-API)
-- [Mobile App that performs Real-time Object Recognition](https://play.google.com/store/apps/details?id=com.apptasticmobile.objectdetector)
+- [Chat/Messaging Web App](https://github.com/badass-techie/InfinityChat)
 - [Image Synthesis with Artificial Intelligence](https://github.com/badass-techie/These-People-Do-Not-Exist)
 - [Audio and Music Generation with Machine Learning](https://github.com/badass-techie/Music-Generation)
 
