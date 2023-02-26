@@ -1,6 +1,6 @@
 ## Hey there! <img src="https://media.tenor.com/images/17a04f152e6be03486439b85e3bb045b/tenor.gif" width="30px">
 
-I am a Data Scientist, Software Engineer, and Cloud Enthusiast. I pride myself as an innovator & astute problem solver. Find out more about me and feel free to connect with me here:
+I am a Software Engineer, Machine Learning Engineer, and Cloud Enthusiast. I pride myself as an innovator & astute problem solver. Find out more about me and feel free to connect with me here:
 
 <p align="left">
   <a href="https://github.com/badass-techie?tab=followers">
@@ -17,8 +17,8 @@ I am a Data Scientist, Software Engineer, and Cloud Enthusiast. I pride myself a
 
 ###  Skills
 
-- Data Science
 - Full Stack Web Development
+- Machine Learning
 - Cloud and DevOps
 - Game Development
 - Blockchain Development
@@ -31,10 +31,13 @@ I am a Data Scientist, Software Engineer, and Cloud Enthusiast. I pride myself a
 ![C++](https://img.shields.io/badge/-C++-white?style=flat-square&logo=C)
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
+![MySQL](https://img.shields.io/badge/-MySQL-e48a00?style=flat-square&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-ffffff?style=flat-square&logo=kubernetes)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Python](https://img.shields.io/badge/-Python-5e4d28?style=flat-square&logo=Python)
+![Django](https://img.shields.io/badge/-Django-003b2a?style=flat-square&logo=django)
 ![ScikitLearn](https://img.shields.io/badge/-ScikitLearn-white?style=flat-square&logo=ScikitLearn)
 ![Keras](https://img.shields.io/badge/-Keras-red?style=flat-square&logo=keras)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-white?style=flat-square&logo=tensorflow)
