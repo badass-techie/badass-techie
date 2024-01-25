@@ -53,6 +53,7 @@ I am a Software Engineer, Machine Learning Engineer, and Cloud Enthusiast. I pri
 
 ### Projects
 
+- [Cloud-native online store based on microservices and Kubernetes](https://github.com/badass-techie/eShopOnSteroids)
 - [Image Captioner powered by AI](https://github.com/badass-techie/Image-Captioning)
 - [Full Stack Social Media Web App](https://github.com/badass-techie/Sociorama-API)
 - [Chat/Messaging Web App](https://github.com/badass-techie/InfinityChat)
