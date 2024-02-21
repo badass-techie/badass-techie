@@ -19,7 +19,7 @@ I am a Software Engineer, Machine Learning Engineer, and Cloud Enthusiast. I pri
 
 - Full Stack Web Development
 - Machine Learning
-- Blockchain Development
+- Cloud and DevOps
 
 
 
