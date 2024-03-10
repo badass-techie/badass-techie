@@ -37,6 +37,7 @@ I am a Software Engineer, Machine Learning Engineer, and Cloud Enthusiast. I pri
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-ffffff?style=flat-square&logo=kubernetes)
 ![Terraform](https://img.shields.io/badge/Terraform-ffffff?style=flat-square&logo=terraform)
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=flat-square&logo=ansible)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Azure](https://img.shields.io/badge/Azure-0077d5?style=flat-square&logo=microsoft-azure)
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=Angular)
