@@ -61,10 +61,5 @@ I am a Software Engineer, Machine Learning Engineer, and Cloud Enthusiast. I pri
 - [Audio and Music Generation with Machine Learning](https://github.com/badass-techie/Music-Generation)
 
 
-### More Projects
-
-I run a Google Play Store account. [Download my mobile apps](https://play.google.com/store/apps/dev?id=6067079243941005070).
-
-
 ### Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badass-techie&hide=css,Jupyter%20Notebook,HTML,PLpgSQL&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
