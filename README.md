@@ -15,13 +15,6 @@ I am a Software Engineer, Machine Learning Engineer, and Cloud Enthusiast. I pri
 </p>
 
 
-###  Skills
-
-- Full Stack Web Development
-- Machine Learning
-- Cloud and DevOps
-
-
 ###  ⚡ Technologies
 
 
