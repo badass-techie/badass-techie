@@ -1,6 +1,6 @@
 ## Hey there! <img src="https://media.tenor.com/images/17a04f152e6be03486439b85e3bb045b/tenor.gif" width="30px">
 
-I am a Software Engineer, Machine Learning Engineer, and Data Engineer. I pride myself as an innovator & astute problem solver. Find out more about me and feel free to connect with me here:
+I am a Software Engineer specializing in data/ML systems. Find out more about me and feel free to connect with me here:
 
 <p align="left">
   <a href="https://github.com/badass-techie?tab=followers">
